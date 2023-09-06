@@ -1,0 +1,1 @@
+say get.comb.sort.join eq 'abc' ?? "Yes" !! "No"

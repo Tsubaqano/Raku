@@ -1,0 +1,1 @@
+say get.match(/1/, :g).elems

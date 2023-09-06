@@ -1,0 +1,1 @@
+say get.subst(",", " ", :g)

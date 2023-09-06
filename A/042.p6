@@ -1,0 +1,1 @@
+say get.words.sort eq (5,5,7) ?? "YES" !! "NO"

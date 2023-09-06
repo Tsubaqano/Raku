@@ -1,0 +1,1 @@
+say "A" ~ get.substr(8,1) ~ "C"

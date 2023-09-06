@@ -1,0 +1,1 @@
+say get.match(/a|i|u|e|o/) ?? "vowel" !! "consonant"

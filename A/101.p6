@@ -1,0 +1,1 @@
+say get.match(/\+/, :g) * 2 - 4

@@ -1,0 +1,1 @@
+say get.match(/o/, :g)  * 100 + 700
